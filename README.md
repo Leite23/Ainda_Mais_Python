@@ -1,1 +1,2 @@
-# Ainda_Mais_Python
+# A Snake Game made by pyGame
+
